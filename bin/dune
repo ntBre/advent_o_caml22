@@ -1,0 +1,4 @@
+(executable
+ (public_name advent_o_caml22)
+ (name main)
+ (libraries advent_o_caml22 base stdio))
