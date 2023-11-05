@@ -1,4 +1,3 @@
-(executable
- (public_name advent_o_caml22)
- (name main)
+(executables
+ (public_names day01 day02)
  (libraries advent_o_caml22 base stdio))
